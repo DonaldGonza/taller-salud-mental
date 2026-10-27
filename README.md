@@ -1,4 +1,4 @@
-# Árboles de decisión: base Taller
+# Árboles de decisión
 
 Informe interactivo de resultados agregados sobre síntomas depresivos, ansiedad y bienestar psicológico.
 
